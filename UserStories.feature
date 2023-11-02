@@ -1,11 +1,11 @@
 Feature: Acceso a segmento de Nuestros servicios
 Como usuario general,
-Quiero poder ver información sobre los servicios ofrecidos 
+Quiero poder ver información sobre los servicios ofrecidos en la aplicacion UPC Travel 
 Para conocer qué beneficios obtendré.
 
 Scenario: Visualizacion de Nuestros Servicios
 
-Dado que el usuario-general se encuentra en la Landing Page
+Dado que el usuario-general se encuentra en la Landing Page de UPC Travel
 Cuando el usuario general cliquee el botón de <Servicios>
 Entonces la página web lo redirigirá al segmento de <Nuestros Servicios>
 

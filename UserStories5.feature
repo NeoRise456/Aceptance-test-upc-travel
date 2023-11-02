@@ -1,11 +1,11 @@
 Feature: Acceso a la sección de Contacto directo con la empresa
 Como usuario general, 
-Deseo poder comunicarme directamente con la empresa 
+Deseo poder comunicarme directamente con la empresa Utopia
 Para así tener una forma de resolver futuras dudas.
 
 Scenario: Visualización de “Contactanos”
 
-Dado que el usuario general se encuentra en la Landing Page
+Dado que el usuario general se encuentra en la Landing Page de UPC Travel
 Cuando el usuario general cliquee el botón de <Contacto>
 Entonces la página web lo redirigirá al segmento de <Contactanos>
 

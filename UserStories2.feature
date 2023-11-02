@@ -20,7 +20,7 @@ Example: Datos de Salida
 
 Scenario: Acceso a Facebook
 
-Dado que el usuario general se encuentra en la Landing Page
+Dado que el usuario general se encuentra en la Landing Page de UPC Travel
 Cuando el usuario general cliquee el botón con el <logo de Facebook>
 Entonces la página redireccionará al usuario general a al <Facebook> respectivo del aplicativo
 
@@ -35,7 +35,7 @@ Example: Datos de Salida
 
 Scenario: Acceso a Twitter
 
-Dado que el usuario general se encuentra en la Landing Page
+Dado que el usuario general se encuentra en la Landing Page de UPC Travel
 Cuando el usuario general cliquee el botón con el <logo de Twitter>
 Entonces la página redireccionará al usuario general a al <Twitter> respectivo del aplicativo
 
